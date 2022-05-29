@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890813061449",
+    "project_id": "userprofiles-47558",
+    "storage_bucket": "userprofiles-47558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890813061449:android:064862d7a557e819762298",
+        "android_client_info": {
+          "package_name": "www.smktelkommlg.sch.id.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890813061449-gmagol38i1te0sb59sq030m82d3ro8fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBovMg5GqNjuPgAmSN9iLKRMrH2L0GUemE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890813061449-gmagol38i1te0sb59sq030m82d3ro8fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
